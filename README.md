@@ -1,7 +1,8 @@
 ## CD Lab Programs
 <hr>
-## Name - Naman Sharma
-## Roll No. - 1816110121
+Name - Naman Sharma
+Roll No. - 1816110121
+
 [1> Program to check whether the entered string is accepted or not for a given grammar.](https://github.com/namanpy/CD-Programs/blob/main/Program1.c)
 
 [2> Program to convert infix expression to postfix expression.](https://github.com/namanpy/CD-Programs/blob/main/Program2.c)
